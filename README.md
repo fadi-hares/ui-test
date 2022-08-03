@@ -1,16 +1,7 @@
 # ui_test
 
-A new Flutter project.
+Modern UI Flutter Test
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ui1](https://user-images.githubusercontent.com/96127438/182551275-62aff07e-f915-486e-96d2-46546bbb29f8.jpg)
+![ui2](https://user-images.githubusercontent.com/96127438/182551365-b1c602e4-c2a4-4629-8b3a-a0e2a4d82638.jpg)
+![ui3](https://user-images.githubusercontent.com/96127438/182551391-02d6b87f-44f3-4ea9-bd99-47117f3afdd4.jpg)
